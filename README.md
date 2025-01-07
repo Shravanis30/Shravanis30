@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Shravani Salunke</h1>
 <h3 align="center">🚀 Aspiring Computer Engineer from India, exploring tech innovations!</h3>
 
