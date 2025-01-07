@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravani Salunke</h1>
 <h3 align="center">🚀 Aspiring Computer Engineer from India, exploring tech innovations!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanis30&label=Profile%20views&color=0e75b6&style=flat" alt="shravanis30" /> </p>
 
 - 🔭 I’m currently learning **MERN stack & AWS**
 
@@ -31,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanis30&show_icons=true&locale=en" alt="shravanis30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanis30&" alt="shravanis30" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanis30&label=Profile%20views&color=0e75b6&style=flat" alt="shravanis30" /> </p>
+
