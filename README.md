@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Shravanis30/Shravanis30/blob/main/Make%20your%20README.png)
 
 <h1 align="center">Hi 👋, I'm Shravani Salunke</h1>
 <h3 align="center">🚀 Aspiring Computer Engineer from India, exploring tech innovations!</h3>
